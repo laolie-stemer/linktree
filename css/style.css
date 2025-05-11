@@ -21,6 +21,7 @@ h1 {
 img {
     width: 14.125rem;
     height: 14.9375rem;
+    border-radius: 2em;
 }
 
 .sites {
